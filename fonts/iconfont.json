@@ -1,0 +1,142 @@
+{
+  "id": "2849950",
+  "name": "YuNengIconProject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "豫能电力办公应用系统专用",
+  "glyphs": [
+    {
+      "icon_id": "382956",
+      "name": "群蜂账号管理",
+      "font_class": "zhanghaoguanli",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1038050",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "4347522",
+      "name": "icon_账号",
+      "font_class": "icon_zhanghao",
+      "unicode": "eb8a",
+      "unicode_decimal": 60298
+    },
+    {
+      "icon_id": "6284047",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13000508",
+      "name": "密码",
+      "font_class": "mima2",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "24940516",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "24940522",
+      "name": "向左",
+      "font_class": "xiangzuo",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "25042372",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "25042373",
+      "name": "catch-position",
+      "font_class": "catchPosition",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "25042376",
+      "name": "example",
+      "font_class": "example",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "25042377",
+      "name": "edit-central-point",
+      "font_class": "edit-central-point",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "25042383",
+      "name": "house",
+      "font_class": "house",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "25042387",
+      "name": "eye-open",
+      "font_class": "eye-open",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "25042399",
+      "name": "defuse",
+      "font_class": "defuse",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "25042400",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "25042401",
+      "name": "urging",
+      "font_class": "urging",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "25042411",
+      "name": "police",
+      "font_class": "police",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11372717",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    }
+  ]
+}

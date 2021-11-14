@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2849950 */
+  src: url('iconfont.woff2?t=1635169400193') format('woff2'),
+       url('iconfont.woff?t=1635169400193') format('woff'),
+       url('iconfont.ttf?t=1635169400193') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhanghaoguanli:before {
+  content: "\e660";
+}
+
+.icon-mima:before {
+  content: "\e62f";
+}
+
+.icon-icon_zhanghao:before {
+  content: "\eb8a";
+}
+
+.icon-mima1:before {
+  content: "\e60b";
+}
+
+.icon-mima2:before {
+  content: "\e60d";
+}
+
+.icon-xiangyou:before {
+  content: "\e61a";
+}
+
+.icon-xiangzuo:before {
+  content: "\e61b";
+}
+
+.icon-camera:before {
+  content: "\e601";
+}
+
+.icon-catchPosition:before {
+  content: "\e602";
+}
+
+.icon-example:before {
+  content: "\e603";
+}
+
+.icon-edit-central-point:before {
+  content: "\e604";
+}
+
+.icon-house:before {
+  content: "\e605";
+}
+
+.icon-eye-open:before {
+  content: "\e606";
+}
+
+.icon-defuse:before {
+  content: "\e607";
+}
+
+.icon-save:before {
+  content: "\e608";
+}
+
+.icon-urging:before {
+  content: "\e609";
+}
+
+.icon-police:before {
+  content: "\e60a";
+}
+
+.icon-weixin:before {
+  content: "\e600";
+}
+
+.icon-weixin1:before {
+  content: "\e8bb";
+}
+

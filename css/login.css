@@ -1,0 +1,159 @@
+                .loginbox {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-top: -150px;
+                margin-left: -150px;
+                z-index: 2;
+                width: 300px;
+                height: 260px;
+                padding: 20px 50px;
+                background-color: #00000090;
+                border-radius: 20px;
+                text-align: center;
+            }
+            
+            .loginbox h1 {
+                font-size: 20px;
+                font-weight: 400;
+                color: white;
+                letter-spacing: 5px;
+            }
+            
+            .loginbox .inputbox {
+                margin-top: 30px;
+            }
+            
+            .loginbox .inputbox div:nth-child(1) {
+                margin: 0 auto;
+            }
+            
+            .loginbox .inputbox div:nth-child(2) {
+                margin: 20px auto 0;
+            }
+            
+            .loginbox .inputbox .inputtext input {
+                border: 0;
+                padding: 10px;
+                border-bottom: 1px solid white;
+                background-color: #00000000;
+                color: white;
+            }
+            
+            .loginbox .inputbox span {
+                color: white;
+            }
+            
+            .loginbox .inputbox .inputbutton {
+                border: 0;
+                width: 150px;
+                height: 25px;
+                color: white;
+                font-weight: 700;
+                margin-top: 30px;
+                line-height: 20px;
+                border: 1px solid white;
+                border-radius: 20px;
+                background-color: transparent;
+                /* background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); */
+            }
+            
+            .footer {
+                position: absolute;
+                top: 500px;
+                left: 50%;
+                margin-left: -243px;
+                z-index: 3;
+            }
+            
+            .footer ul li {
+                font-size: 12px;
+                color: black;
+                float: left;
+                margin-left: 10px;
+            }
+            
+            .title {
+                position: absolute;
+                z-index: 1;
+                top: 10px;
+                left: 10px;
+                height: 30px;
+            }
+            
+            .title img {
+                float: left;
+                width: 50px;
+                margin-right: 5px;
+            }
+            
+            .describe {
+                float: left;
+                line-height: 50px;
+            }
+            
+            .title h1 {
+                line-height: 30px;
+                font-size: 25px;
+            }
+            
+            .describe h3 {
+                line-height: 20px;
+                letter-spacing: 1px
+            }
+            
+            .wrapper {
+                position: relative;
+                width: 100vw;
+                height: 100vh;
+                background-color: #fff;
+                overflow: hidden;
+            }
+            
+            .box {
+                width: calc(100vw*5);
+                animation: slider 20s linear infinite;
+            }
+            
+            .box img {
+                width: 100vw;
+                height: auto;
+                float: left;
+            }
+            
+            @keyframes slider {
+                0% {
+                    transform: translateX(0);
+                    opacity: 0;
+                }
+                10% {
+                    transform: translateX(-100vw);
+                }
+                25% {
+                    transform: translateX(-100vw);
+                    opacity: 1;
+                }
+                35% {
+                    transform: translateX(-200vw);
+                    opacity: 0;
+                }
+                50% {
+                    transform: translateX(-200vw);
+                    opacity: 1;
+                }
+                60% {
+                    transform: translateX(-300vw);
+                    opacity: 0;
+                }
+                75% {
+                    transform: translateX(-300vw);
+                    opacity: 1;
+                }
+                85% {
+                    transform: translateX(-400vw);
+                    opacity: 0;
+                }
+                100% {
+                    transform: translateX(-400vw);
+                    opacity: 1;
+                }
